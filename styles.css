@@ -5,3 +5,10 @@
     text-align: center;
         
 }
+
+.links {
+    font-size: 25px;
+    padding: 5px;
+    border: 15px;
+    background-color: aqua;
+}
