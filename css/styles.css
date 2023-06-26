@@ -71,3 +71,14 @@
 .content{
     padding: 20px;
 }
+
+
+.paragraph {
+    font-size: 18px;
+    text-align: left;
+
+}
+
+body {
+    background-color: rgb(245 , 245, 245);
+}
